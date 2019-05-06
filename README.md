@@ -1,6 +1,8 @@
 # SelectSort
 
-This is a beginning implementation of selection sort in C++.
+2018 Ford Tennis
+
+This is a basic implementation of selection sort in C++.
 
 ### Prerequisites
 
