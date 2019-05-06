@@ -5,9 +5,6 @@ This is a beginning implementation of selection sort in C++.
 ### Prerequisites
 
 C++ standard language library 
-```
-Give examples
-```
 
 ### Installing
 
